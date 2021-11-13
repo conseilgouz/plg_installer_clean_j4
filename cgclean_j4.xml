@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.10.0" type="plugin" group="installer" method="upgrade">
+	<name>cgcleanj4</name>
+	<creationDate>October 2021</creationDate>
+	<author>ConseilGouz</author>
+	<authorEmail>pascal.leconte@conseilgouz.com</authorEmail>
+	<authorUrl>https://www.conseilgouz.com</authorUrl>
+	<copyright>(C)2021 ConseilGouz. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<version>1.0.0</version>
+	<description/>
+	<scriptfile>script.php</scriptfile>
+	<files>
+		<filename plugin="cgcleanj4">cgcleanj4.php</filename>
+		<filename >cgclean_j4.xml</filename>
+		<filename>index.html</filename>
+	</files>	
+</extension>
