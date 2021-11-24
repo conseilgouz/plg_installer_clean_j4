@@ -5,4 +5,4 @@ Install this plugin like any other Joomla plugins.
 
 After install, it cleans up CG issues and de-installs itself.
 
-Use this plugin befor Joomla 3.10 to Joomla 4.x migration.
+Use this plugin before Joomla 3.10 to Joomla 4.x migration.
